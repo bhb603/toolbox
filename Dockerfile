@@ -8,7 +8,10 @@ RUN apt-get update && apt-get install -y \
   gnupg \
   jq \
   less \
+  netcat \
+  nmap \
   postgresql postgresql-contrib \
+  telnet \
   unzip \
   vim \
   wget && \
